@@ -1,6 +1,15 @@
 {
-  "name": "Getting Started Example",
-  "description": "Build an Extension!",
+  "name": "GlibGrade",
+  "description": "Rating sites",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions":
+    ["tabs", "https://www.google.com/*"]
+  
 }
