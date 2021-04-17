@@ -1,11 +1,11 @@
 # GlibGrade
 GlibGrade aims to keep users informed by giving rating s to the verifiability of web apps.
 
-Gives a verbal feedback from our machine learning algorithm and a community numerical rating so that the user has multiple sources to get input from.
+It gives a verbal feedback from our machine learning algorithm and a community numerical rating so that the user has multiple sources to get input from.
 
 ### Example:
 
-Before GlibGrade:<br/>
+<strong>Before GlibGrade:</strong><br/>
 ![News article with no additional information](images/noGlibGrade.png?raw=true)
 
 
